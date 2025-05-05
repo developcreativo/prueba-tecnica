@@ -13,3 +13,4 @@ Homestead.yaml
 .DS_Store
 app/.DS_Store
 /movil-module/.env.scaprod
+.phpunit.cache
